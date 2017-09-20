@@ -1,4 +1,4 @@
 *.mx
-figures/
-figures_no_attitude
+figures/*
+figures_no_attitude/*
 control of load tethered to two quads arcsin not good.nb
